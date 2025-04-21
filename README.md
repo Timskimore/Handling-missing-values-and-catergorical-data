@@ -6,4 +6,5 @@
 + Python 
 ## Resourses used 
 [Kaggle learn](https://www.kaggle.com/)
+
 [Tecvinson Academy](https://tecvinsonacademy.com/courses/data-analysis/)
